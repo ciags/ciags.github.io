@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ciags.github.io/SVw/sitemap.SVw.gz
